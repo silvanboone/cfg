@@ -1,0 +1,317 @@
+[
+  {
+    "Crosshair": "bomoseeker",
+    "Weapon": "Scattergun, Back Scatter, Force-A-Nature",
+    "TF2Class": "Scout"
+  },
+  {
+    "Crosshair": "bomoseeker",
+    "Weapon": "Baby Face's Blaster",
+    "TF2Class": "Scout"
+  },
+  {
+    "Crosshair": "bomoseeker",
+    "Weapon": "Shortstop",
+    "TF2Class": "Scout"
+  },
+  {
+    "Crosshair": "bomoseeker",
+    "Weapon": "Soda Popper",
+    "TF2Class": "Scout"
+  },
+  {
+    "Crosshair": "bomoseeker",
+    "Weapon": "Shotgun, Reserve Shooter, Panic Attack (Soldier)",
+    "TF2Class": "Soldier"
+  },
+  {
+    "Crosshair": "bomoseeker",
+    "Weapon": "Dragon's Fury",
+    "TF2Class": "Pyro"
+  },
+  {
+    "Crosshair": "bomoseeker",
+    "Weapon": "Shotgun, Reserve Shooter, Panic Attack (Pyro)",
+    "TF2Class": "Pyro"
+  },
+  {
+    "Crosshair": "bomoseeker",
+    "Weapon": "Shotgun, Family Business, Panic Attack",
+    "TF2Class": "Heavy"
+  },
+  {
+    "Crosshair": "bomoseeker",
+    "Weapon": "Shotgun, Widowmaker, Panic Attack",
+    "TF2Class": "Engineer"
+  },
+  {
+    "Crosshair": "bomoseeker",
+    "Weapon": "Frontier Justice",
+    "TF2Class": "Engineer"
+  },
+  {
+    "Crosshair": "None",
+    "Weapon": "Bonk! Atomic Punch, Crit-a-Cola",
+    "TF2Class": "Scout"
+  },
+  {
+    "Crosshair": "None",
+    "Weapon": "Buff Banner, Battalion's Backup, Concheror",
+    "TF2Class": "Soldier"
+  },
+  {
+    "Crosshair": "None",
+    "Weapon": "Disguise kit",
+    "TF2Class": "Spy"
+  },
+  {
+    "Crosshair": "tealdot",
+    "Weapon": "Pistol and all reskins (Scout)",
+    "TF2Class": "Scout"
+  },
+  {
+    "Crosshair": "tealdot",
+    "Weapon": "Pretty Boy's Pocket Pistol, Winger",
+    "TF2Class": "Scout"
+  },
+  {
+    "Crosshair": "tealdot",
+    "Weapon": "Flying Guillotine, Mad Milk, Gas Passer, Jarate",
+    "TF2Class": "Scout"
+  },
+  {
+    "Crosshair": "tealdot",
+    "Weapon": "Bat and all reskins, Atomizer, Boston Basher, Candy Cane, Fan O'War, Sun-on-a-Stick",
+    "TF2Class": "Scout"
+  },
+  {
+    "Crosshair": "tealdot",
+    "Weapon": "Holy Mackerel",
+    "TF2Class": "Scout"
+  },
+  {
+    "Crosshair": "tealdot",
+    "Weapon": "Sandman",
+    "TF2Class": "Scout"
+  },
+  {
+    "Crosshair": "tealdot",
+    "Weapon": "Wrap Assassin",
+    "TF2Class": "Scout"
+  },
+  {
+    "Crosshair": "tealdot",
+    "Weapon": "Shovel and all reskins, Equalizer, Pain Train, Disciplinary Action, Market Gardener, Escape Plan",
+    "TF2Class": "Soldier"
+  },
+  {
+    "Crosshair": "tealdot",
+    "Weapon": "Half-Zatoichi",
+    "TF2Class": "Soldier"
+  },
+  {
+    "Crosshair": "tealdot",
+    "Weapon": "Fire Axe and all reskins, Lollichop, Axtinguisher, Homewrecker, Powerjack, Back Scratcher, Sharpened Volcano Fragment, Third Degree, Neon Annihilator",
+    "TF2Class": "Pyro"
+  },
+  {
+    "Crosshair": "tealdot",
+    "Weapon": "Hot Hand",
+    "TF2Class": "Pyro"
+  },
+  {
+    "Crosshair": "tealdot",
+    "Weapon": "Bottle and all reskins",
+    "TF2Class": "Demoman"
+  },
+  {
+    "Crosshair": "tealdot",
+    "Weapon": "Eyelander, Scotsman's Skullcutter, Claidheamh Mòr, Persian Persuader, Pain Train",
+    "TF2Class": "Demoman"
+  },
+  {
+    "Crosshair": "tealdot",
+    "Weapon": "Ullapool Caber",
+    "TF2Class": "Demoman"
+  },
+  {
+    "Crosshair": "tealdot",
+    "Weapon": "Fists and all reskins, Killing Gloves of Boxing, Gloves of Running Urgently, Warrior's Spirit, Fists of Steel, Eviction Notice, Holiday Punch",
+    "TF2Class": "Heavy"
+  },
+  {
+    "Crosshair": "tealdot",
+    "Weapon": "Wrench, Southern Hospitality, Jag, Eureka Effect",
+    "TF2Class": "Engineer"
+  },
+  {
+    "Crosshair": "tealdot",
+    "Weapon": "Gunslinger",
+    "TF2Class": "Engineer"
+  },
+  {
+    "Crosshair": "tealdot",
+    "Weapon": "Bonesaw and all reskins, Ubersaw, Vita-Saw, Amputator, Solemn Vow",
+    "TF2Class": "Medic"
+  },
+  {
+    "Crosshair": "tealdot",
+    "Weapon": "Kukri and all reskins, Tribalman's Shiv, Bushwacka, Shahanshah",
+    "TF2Class": "Sniper"
+  },
+  {
+    "Crosshair": "tealdot",
+    "Weapon": "Knife and all reskins, Your Eternal Reward, Conniver's Kunai, Big Earner, Spy-cicle",
+    "TF2Class": "Spy"
+  },
+  {
+    "Crosshair": "tealdot",
+    "Weapon": "Righteous Bison",
+    "TF2Class": "Soldier"
+  },
+  {
+    "Crosshair": "tealdot",
+    "Weapon": "Flare Gun, Detonator, Scorch Shot",
+    "TF2Class": "Pyro"
+  },
+  {
+    "Crosshair": "tealdot",
+    "Weapon": "Manmelter",
+    "TF2Class": "Pyro"
+  },
+  {
+    "Crosshair": "tealdot",
+    "Weapon": "Thermal Thruster",
+    "TF2Class": "Pyro"
+  },
+  {
+    "Crosshair": "tealdot",
+    "Weapon": "Grenade Launcher, Loch-n-Load, Iron Bomber",
+    "TF2Class": "Demoman"
+  },
+  {
+    "Crosshair": "tealdot",
+    "Weapon": "Loose Cannon",
+    "TF2Class": "Demoman"
+  },
+  {
+    "Crosshair": "tealdot",
+    "Weapon": "Stickybomb Launcher, Scottish Resistance, Sticky Jumper, Quickiebomb Launcher",
+    "TF2Class": "Demoman"
+  },
+  {
+    "Crosshair": "tealdot",
+    "Weapon": "Minigun, Natascha, Brass Beast, Tomislav, Huo-Long Heater",
+    "TF2Class": "Heavy"
+  },
+  {
+    "Crosshair": "tealdot",
+    "Weapon": "Sandvich, Dalokohs Bar, Fishcake, Buffalo Steak Sandvich, Second Banana",
+    "TF2Class": "Heavy"
+  },
+  {
+    "Crosshair": "tealdot",
+    "Weapon": "Pomson 6000",
+    "TF2Class": "Engineer"
+  },
+  {
+    "Crosshair": "tealdot",
+    "Weapon": "Rescue Ranger",
+    "TF2Class": "Engineer"
+  },
+  {
+    "Crosshair": "tealdot",
+    "Weapon": "Pistol and all reskins (Engineer)",
+    "TF2Class": "Engineer"
+  },
+  {
+    "Crosshair": "tealdot",
+    "Weapon": "Short Circuit",
+    "TF2Class": "Engineer"
+  },
+  {
+    "Crosshair": "tealdot",
+    "Weapon": "Wrangler, Giger Counter",
+    "TF2Class": "Engineer"
+  },
+  {
+    "Crosshair": "tealdot",
+    "Weapon": "Syringe Gun, Blutsauger, Overdose",
+    "TF2Class": "Medic"
+  },
+  {
+    "Crosshair": "tealdot",
+    "Weapon": "Crusader's Crossbow",
+    "TF2Class": "Medic"
+  },
+  {
+    "Crosshair": "tealdot",
+    "Weapon": "Medi Gun, Kritzkrieg, Quick-Fix, Vaccinator",
+    "TF2Class": "Medic"
+  },
+  {
+    "Crosshair": "tealdot",
+    "Weapon": "Sniper Rifle, Sydney Sleeper, Hitman's Heatmaker, Machina",
+    "TF2Class": "Sniper"
+  },
+  {
+    "Crosshair": "tealdot",
+    "Weapon": "Bazaar Bargain",
+    "TF2Class": "Sniper"
+  },
+  {
+    "Crosshair": "tealdot",
+    "Weapon": "Classic",
+    "TF2Class": "Sniper"
+  },
+  {
+    "Crosshair": "tealdot",
+    "Weapon": "Huntsman, Fortified Compound",
+    "TF2Class": "Sniper"
+  },
+  {
+    "Crosshair": "tealdot",
+    "Weapon": "SMG",
+    "TF2Class": "Sniper"
+  },
+  {
+    "Crosshair": "tealdot",
+    "Weapon": "Cleaner's Carbine",
+    "TF2Class": "Sniper"
+  },
+  {
+    "Crosshair": "tealdot",
+    "Weapon": "Revolver, Ambassador, L'Etranger, Enforcer, Diamondback",
+    "TF2Class": "Spy"
+  },
+  {
+    "Crosshair": "tealdot",
+    "Weapon": "Sapper, Red-Tape Recorder, While placing a building",
+    "TF2Class": "Spy"
+  },
+  {
+    "Crosshair": "tealdotbig",
+    "Weapon": "Rocket Launcher, Black Box, Original, Liberty Launcher, Beggar's Bazooka",
+    "TF2Class": "Soldier"
+  },
+  {
+    "Crosshair": "tealdotbig",
+    "Weapon": "Air Strike",
+    "TF2Class": "Soldier"
+  },
+  {
+    "Crosshair": "tealdotbig",
+    "Weapon": "Cow Mangler 5000",
+    "TF2Class": "Soldier"
+  },
+  {
+    "Crosshair": "tealdotbig",
+    "Weapon": "Direct Hit",
+    "TF2Class": "Soldier"
+  },
+  {
+    "Crosshair": "tealdotbig",
+    "Weapon": "Flame Thrower and all reskins, Backburner, Degreaser, Phlogistinator",
+    "TF2Class": "Pyro"
+  }
+]
